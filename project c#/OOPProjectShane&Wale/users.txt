@@ -1,0 +1,6 @@
+﻿Admin,admin,admin,Administrator,1
+Customer,cathy,cathy,Cathy Customer,123 Main St,555-1234
+Customer,john,pass123,John Smith,456 Oak Ave,555-5678
+Customer,emily,emily123,Emily Johnson,789 Pine Blvd,555-9012
+Customer,michael,mike2023,Michael Brown,321 Maple Dr,555-3456
+Customer,sarah,sarah2023,Sarah Davis,654 Cedar Ln,555-7890

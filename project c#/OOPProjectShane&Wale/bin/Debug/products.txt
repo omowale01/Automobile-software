@@ -1,0 +1,9 @@
+AutoPart,BP001,Oil Filter,12.99,25,Bosch,Toyota Camry/Corolla,12,True
+AutoPart,BP002,Air Filter,15.99,30,K&N,Honda Accord/Civic,24,False
+AutoPart,BP003,Brake Pads (Front),45.99,15,Brembo,Ford F-150,36,True
+AutoPart,BP004,Spark Plugs (Set of 4),22.50,40,NGK,Chevrolet Silverado,12,True
+AutoPart,BP005,Wiper Blades,18.75,35,Rain-X,Universal,6,False
+ServiceItem,SV001,Oil Change,39.99,20,1,Basic,False
+ServiceItem,SV003,Brake Service,149.99,8,2,Intermediate,True
+ServiceItem,SV004,Engine Tune-Up,199.99,8,3,Advanced,True
+ServiceItem,SV005,A/C Recharge,89.99,12,1,Intermediate,False
